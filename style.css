@@ -175,3 +175,10 @@ section {
   }
 }
  
+.text1{
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+  color: var(--accent-color);
+}
+
