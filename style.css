@@ -181,4 +181,15 @@ section {
   text-align: center;
   color: var(--accent-color);
 }
-
+.text2{
+  font-size: 15px;
+  font-weight: 400;
+  text-align: center;
+  color: var(--btn-bg-color);
+}
+.text3{
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+  color: var(--accent-color);
+}
